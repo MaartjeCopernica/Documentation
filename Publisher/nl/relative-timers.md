@@ -1,6 +1,7 @@
 # Instellen van een variabele timer
 
-Binnen de drag-and-drop-template bestaat de mogelijkheid om een variabele starttijd aan de blok-optie van een timer toe te voegen. Dit kan je doen door **speciale parameters** aan de URL van een HTML-broncode toe te voegen binnen de code van je template. Met het exporteren van een HTML-broncode bedoelen we de broncode van een template in een reeds verzonden mail. Verderop in de documentatie leg ik uit hoe je dit doet. 
+Momenteel is het niet mogelijk een variabele timer in te stellen binnen het timerblok van de Drag & Drop editor. Deze functionaliteit komt op termijn echter wel beschikbaar. Mocht de huidige timer-instellingsmogelijkheid niet voldoen aan je behoefte, dan is er wel een alternatief. Dit kan je doen door **speciale parameters** aan de URL van een HTML-broncode toe te voegen binnen de code van je template. 
+Verderop in de documentatie leg ik uit hoe je dit doet. 
 
 Er zijn  meerdere parameters die je aan de code kan toevoegen om de variabele waarden in de de timer toe te voegen.
 
